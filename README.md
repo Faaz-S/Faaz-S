@@ -20,7 +20,7 @@
 
 ### 🧙‍♂️About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: I’m a 2nd year CS student at York University 
+- :telescope: I’m a 3rd year CS student at York University 
 
 - :seedling: Exploring AWS services
 
