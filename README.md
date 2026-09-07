@@ -20,9 +20,9 @@
 
 ### 🧙‍♂️About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: I’m a 3rd year CS student at York University 
+- :telescope: I’m a 4th year CS student at York University 
 
-- :seedling: Exploring AWS services
+- :seedling: Exploring Robotics, AWS services.
 
 - :zap: In my free time, I like swimming and playing guitar
 
